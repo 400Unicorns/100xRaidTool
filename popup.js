@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
             chrome.tabs.sendMessage(tabs[0].id, 'Hello', setCount)
         })
     }
-
+    //
     function setCount(res){
         const div = document.createElement('div')
         div.textContent = res.count+' comments liked'
