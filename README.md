@@ -5,6 +5,8 @@ A tool to help the 100x community take over the youtube comment sections of any 
 
 #### 1. Download the repo source code (link here https://github.com/400Unicorns/100xRaidTool/archive/refs/heads/main.zip). You can also find the link by clicking on the green arrow top right and download the zip file. Remeber where you saved the file.
 
+![image](https://user-images.githubusercontent.com/84295542/118418818-89a5ba00-b6a9-11eb-9f82-555bf8f6f5aa.png)
+
 #### 2. Type in chrome://extensions into your chrome browsers url and it will bring you into the extensions manager.
 
 ![image](https://user-images.githubusercontent.com/84295542/118418401-d38da080-b6a7-11eb-95a3-e53ee9251c11.png)
@@ -28,5 +30,29 @@ A tool to help the 100x community take over the youtube comment sections of any 
 ### How To Use
 
 
+#### 1. Sort comments by newest.
+
+
+#### 2. Scroll down to load as many comments as you can (This part cannot be automated unfortunately).
+
+
+#### 3. Click the puzzle icon to open the 100x raid tool.
+
+![image](https://user-images.githubusercontent.com/84295542/118418915-e73a0680-b6a9-11eb-89f9-7a812f351e53.png)
+
+#### 4. Click the 100x raid tool extension icon and click the button to auto like all comments. 
+
+![image](https://user-images.githubusercontent.com/84295542/118418952-10f32d80-b6aa-11eb-97d5-507f8e7d9fea.png)
+
+
+#### 5. All comments with the mention of "100xcoin" will be auto liked. 
+
 
 ### Other Info
+
+Just a bored college student.
+If the tool is helpful send some love to : 0xbea458Ae811eF54eC16584ACa6feA6d2f5a7D692
+
+If you find any improvements make a push request and I will look over it <3
+
+
