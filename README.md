@@ -1,5 +1,5 @@
 # 100xRaidTool
-Tool to help shill 100xcoin quicker
+A tool to help the community 
 
 ## How To Set Up
 
