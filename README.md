@@ -1,7 +1,7 @@
 # 100xRaidTool
 A tool to help the 100x community take over the youtube comment sections of any video.
 
-## How To Set Up
+# How To Set Up
 
 #### 1. Download the repo source code (link here https://github.com/400Unicorns/100xRaidTool/archive/refs/heads/main.zip). You can also find the link by clicking on the green arrow top right and download the zip file. Remeber where you saved the file.
 
@@ -27,7 +27,7 @@ A tool to help the 100x community take over the youtube comment sections of any 
 #### 6. The extension should now be added and enabled on your browser. Well done. 
 
 
-### How To Use
+# How To Use
 
 
 #### 1. Sort comments by newest.
@@ -48,7 +48,7 @@ A tool to help the 100x community take over the youtube comment sections of any 
 #### 5. All comments with the mention of "100xcoin" will be auto liked. 
 
 
-### Other Info
+# Other Info
 
 Just a bored college student.
 If the tool is helpful send some love to : 0xbea458Ae811eF54eC16584ACa6feA6d2f5a7D692
