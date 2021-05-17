@@ -20,7 +20,7 @@ chrome.runtime.onMessage.addListener(function(request, sender, sendResponse){
                 rawComment += element.querySelector("#content-text > a").innerHTML;
             }
 
-            if(rawComment.replace(/\s+/, "").toLowerCase().includes('100xcoin')){
+            if(rawComment.toLowerCase().includes('100xcoin')){
                 console.log(rawComment);
                 let likeButton = element.querySelector("#button");
                 let likeButtonStatus = likeButton.querySelector("#button").getAttribute("aria-label");
@@ -30,5 +30,6 @@ chrome.runtime.onMessage.addListener(function(request, sender, sendResponse){
                 numCommentsLiked += 1;
             }
         });
+
     sendResponse({count: numCommentsLiked})
 })
